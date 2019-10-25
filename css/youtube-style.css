@@ -1,3 +1,6 @@
+iframe {
+    padding-left: 100px;
+}
 .msg {
     color: maroon;
     border: 2px solid #355C7D;
@@ -6,5 +9,6 @@
     margin: 20px;
     border-radius: 20px;
     text-align: center;
-    font-size: 20px
+    font-size: 20px;
+    margin-bottom: 50px;
 }
